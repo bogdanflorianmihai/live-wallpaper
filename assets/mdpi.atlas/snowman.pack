@@ -1,0 +1,40 @@
+
+snowman.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bkg
+  rotate: false
+  xy: 1, 278
+  size: 364, 647
+  orig: 364, 647
+  offset: 0, 0
+  index: -1
+cloud-2
+  rotate: false
+  xy: 1, 144
+  size: 217, 132
+  orig: 217, 132
+  offset: 0, 0
+  index: -1
+cloud-1
+  rotate: false
+  xy: 1, 48
+  size: 164, 94
+  orig: 164, 94
+  offset: 0, 0
+  index: -1
+santa
+  rotate: false
+  xy: 1, 1
+  size: 149, 45
+  orig: 149, 45
+  offset: 0, 0
+  index: -1
+cloud-3
+  rotate: false
+  xy: 367, 883
+  size: 105, 42
+  orig: 105, 42
+  offset: 0, 0
+  index: -1
